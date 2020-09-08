@@ -1,0 +1,1 @@
+runghc Main
